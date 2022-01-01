@@ -27,12 +27,8 @@ initcode
 TAGS
 .gdbinit
 fs/
-kernel/vectors.S
-kernel/bootblock
-kernel/bootblock.out
-kernel/bootother.out
-kernel/initcode.out
-kernel/kernel
+kernel/
+user/
 bootother
 initcode
 user/bin/
